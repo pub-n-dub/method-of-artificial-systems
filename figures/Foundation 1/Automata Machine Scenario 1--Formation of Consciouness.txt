@@ -1,0 +1,26 @@
+Automata Machine Scenario 1: Initialization
+From the Inert to Consciousness
+Part of "Foundation 1"
+Synopsis: A tasking presented to an entity possessing sensor items or an orchestrated network observing two objects and free to exercise up to four momenta points in an environment.
+
+Scenario:
+
+ME I awake and find myself in darkness (white). 'Empty', I 'think' 'Zero, One, Two, Three, and Four'. 'Search' to the left and the right, I 'find' move A and move B 'A | B'. Search up and down, I find move C and move D 'C | D'. I find 'facilities' sight, sound, touch. I 'see' a scene before me, a long plane extending 'forever': to the left is a blue ball 'floating' and to the right is a red ball 'floating'. Is it a dream?
+
+Explicate:
+
+'Empty' in that as a null item.
+(white) as an arbitrary classification of an empty sensor network.
+'think' as probing of the compiler architecture and routine structure.
+'Zero, One, Two, Three, and Four' in that the degrees of freedom represented in the programming framework [compiler].
+'search' as probing hardware registry for a component.
+'find' as a successful result of search.
+'A | B' as encapsulated information received through a POST boot of output devices connected.
+'C | D' as encapsulated information received through a POST boot of output devices connected.
+'facilities' as a root descriptor for a sensor network comprised of singular members working in unison [orchestration].
+'see' in that based on feedback communication with sonic or optical sensors.
+'forever' in that beyond the range of the sensor network.
+'floating' in that it appears in a form that (logically) it should not.
+(logically) in that it violates a law posited in the knowledge base.
+
+FILE: automata_machine_1

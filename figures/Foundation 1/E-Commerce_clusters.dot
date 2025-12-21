@@ -1,0 +1,60 @@
+digraph G {
+	subgraph cluster_0 {
+		label = "IOrder";
+		CreateOrder -> EditOrder;
+		CreateOrder -> ApproveOrder;
+		CreateOrder -> CancelOrder;
+		Query;
+		color=purple;
+		
+		//form
+		node [shape  = box];
+	size = "3,3";
+	"?OrderID" -> CreateOrder [arrowhead=open taillabel=""]
+	node [shape  = box];
+	size = "3,3";
+	"?OrderProperties" -> CreateOrder [arrowhead=open taillabel=""]
+	node [shape  = box];
+	size = "3,3";
+	"?OrderItems" -> CreateOrder [arrowhead=open taillabel=""]
+	node [style=filled];
+		VisitorAccountID -> "?OrderProperties" [arrowhead=open taillabel=""]
+	node [style=filled];
+		WebShopID -> "?OrderProperties" [arrowhead=open taillabel=""]
+		BasketID -> "?OrderProperties" [arrowhead=open taillabel=""]
+	
+	
+	
+		color = purple;
+	}
+
+	subgraph cluster_1 {
+		label = "Invoice";
+		style= "dashed";
+		color=blue;
+		create -> edit;
+		x -> z;
+		y -> z;
+		y -> q;
+		u -> q;
+		t -> z;
+	}
+	
+	subgraph cluster_2 {
+		label = "webshop.Bakset";
+		style = "dashed";
+		color=orange;
+		z -> 1;
+		R -> 1;
+	}
+
+	"webshop.CreateOrder" -> CreateOrder;
+	"webshop.CreateOrder" -> create;
+	
+	"plug-in.Access" -> 1;
+	"plug-in.Access" -> w;
+	
+	"webshop.CreateOrder" [shape=Mdiamond];
+	"plug-in.Access" [shape=Msquare];
+	u -> w;
+}

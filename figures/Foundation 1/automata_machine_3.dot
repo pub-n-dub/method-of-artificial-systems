@@ -1,0 +1,19 @@
+digraph automata_3 {
+	size ="8.5, 11";
+	node [shape = circle];
+	0 [ style = filled, color=lightgrey ];
+	2 [ shape = doublecircle, style=filled, color=red ];
+	//A [ style=filled, color=gray ];
+	//B [ style=filled, color=gray ];	
+	1 [ shape = doublecircle, style = filled, color=blue ];
+	
+		
+	0 -> 2 [ label = "a " ];
+	0 -> 1 [ label = " Ω " ];
+	1 -> 2 [ label = " c " ];
+	1 -> 1 [ label = " b " ];
+	2 -> 2 [ label = " b " ];
+	2 -> 1 [ label = " ψ " ];
+	"Machine: Foundation \n Process: Observation \n Scenario: Objectification"[ shape = plaintext ];
+}
+

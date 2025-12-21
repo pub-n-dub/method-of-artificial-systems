@@ -1,0 +1,7 @@
+Automata Machine Scenario 1: Random
+Observing Objects in a Universe
+Part of "Foundation 1"
+
+ME I 'see' two objects in my universe, '(one to the left and one to the right)', and 'think' about what they are and 'what I should do about them'. Do I have a favorite?
+
+FILE: automata_machine_3
