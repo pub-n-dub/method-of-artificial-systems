@@ -4265,11 +4265,11 @@ I will begin by using a laboratory setup in the following manner:
 placement H
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ../../research/publications/UoR thesis/z-archives/master/figures/TheHardwareExperiment.jpg
+	filename figures/TheHardwareExperiment.jpg
 	scale 50
 	rotateOrigin center
 
@@ -4533,11 +4533,11 @@ A further breakdown of how each of the members fits into the composite schema
 placement H
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ../../research/publications/UoR thesis/z-archives/master/figures/governingEquation.jpg
+	filename figures/governingEquation.jpg
 	scale 50
 	rotateOrigin center
 
@@ -5457,11 +5457,11 @@ Pursuant to this, the following table condenses the above six into a single
 placement H
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ../../research/publications/UoR thesis/z-archives/master/figures/tableOne.jpg
+	filename figures/tableOne.jpg
 	lyxscale 50
 	scale 40
 	rotateOrigin center
