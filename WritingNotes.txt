@@ -5,4 +5,5 @@ Focusing on the writing task
     1307: Taking seriously these efforts.
     1327: Found the figures and set them here.
     1738: Set the original version. Will probably branch the new version.
+    1916: Adding another repo in pub-n-dub for Kant-Schopenhauer.
     
