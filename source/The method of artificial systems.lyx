@@ -1,15 +1,10 @@
-#LyX 2.2 created this file. For more info see http://www.lyx.org/
-\lyxformat 508
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
 \begin_document
 \begin_header
 \save_transient_properties true
 \origin unavailable
 \textclass article
-\begin_preamble
-% Added by lyx2lyx
-\renewcommand{\textendash}{--}
-\renewcommand{\textemdash}{---}
-\end_preamble
 \use_default_options false
 \maintain_unincluded_children false
 \language english
@@ -26,6 +21,8 @@
 \font_osf false
 \font_sf_scale 100 100
 \font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -55,6 +52,7 @@
 \suppress_date false
 \justification true
 \use_refstyle 0
+\use_minted 0
 \index Index
 \shortcut idx
 \color #008000
@@ -63,7 +61,10 @@
 \tocdepth 3
 \paragraph_separation indent
 \paragraph_indentation default
-\quotes_language english
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
 \papercolumns 1
 \papersides 1
 \paperpagestyle default
@@ -308,6 +309,7 @@ in solving the AI problem
 \begin_inset CommandInset citation
 LatexCommand cite
 key "key-2"
+literal "true"
 
 \end_inset
 
@@ -334,6 +336,7 @@ I don't think this is a failure of the individual research in question,
 \begin_inset CommandInset citation
 LatexCommand cite
 key "key-3"
+literal "true"
 
 \end_inset
 
@@ -1453,6 +1456,7 @@ The tenets of biologically-inspired robotics are founded on the principle
 \begin_inset CommandInset citation
 LatexCommand cite
 key "key-8"
+literal "true"
 
 \end_inset
 
@@ -1471,6 +1475,7 @@ key "key-8"
 \begin_inset CommandInset citation
 LatexCommand cite
 key "key-3"
+literal "true"
 
 \end_inset
 
@@ -1524,7 +1529,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ../../research/publications/UoR thesis/z-archives/master/figures/cognitionHierarchy.jpg
+	filename figures/cognitionHierarchy.jpg
 	scale 50
 	rotateOrigin center
 
@@ -1604,6 +1609,7 @@ For the purposes of the research, I make the assumption that cognition is
 \begin_inset CommandInset citation
 LatexCommand cite
 key "key-9"
+literal "true"
 
 \end_inset
 
@@ -1649,6 +1655,7 @@ The question regarding choice is: can a machine make a choice and if it
 \begin_inset CommandInset citation
 LatexCommand cite
 key "key-10"
+literal "true"
 
 \end_inset
 
@@ -1690,6 +1697,7 @@ In the case of choice, there is the work of William Grey Walter.
 \begin_inset CommandInset citation
 LatexCommand cite
 key "key-3"
+literal "true"
 
 \end_inset
 
@@ -1715,6 +1723,7 @@ Walter borrowed this concept from his contemporary W.
 \begin_inset CommandInset citation
 LatexCommand cite
 key "key-12"
+literal "true"
 
 \end_inset
 
@@ -1738,6 +1747,7 @@ Which is the attribute to avoid the light in the charging station where
 \begin_inset CommandInset citation
 LatexCommand cite
 key "key-8"
+literal "true"
 
 \end_inset
 
@@ -1985,7 +1995,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ../../research/publications/UoR thesis/z-archives/master/figures/QDTransGen.jpg
+	filename figures/QDTransGen.jpg
 	scale 75
 	rotateOrigin center
 
@@ -2207,6 +2217,7 @@ I offer the following experimental design to empirically test the notion
 \begin_inset CommandInset citation
 LatexCommand cite
 key "key-12"
+literal "true"
 
 \end_inset
 
@@ -2227,7 +2238,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ../../research/publications/UoR thesis/z-archives/master/figures/featuredPower.jpg
+	filename figures/featuredPower.jpg
 	scale 50
 	rotateOrigin center
 
@@ -2302,6 +2313,7 @@ Considering the type of transmission and the necessity to transmit only
 \begin_inset CommandInset citation
 LatexCommand cite
 key "key-13"
+literal "true"
 
 \end_inset
 
@@ -2457,6 +2469,7 @@ The software architecture possesses the same transformation-logic array
 \begin_inset CommandInset citation
 LatexCommand cite
 key "key-14"
+literal "true"
 
 \end_inset
 
@@ -2527,7 +2540,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ../../research/publications/UoR thesis/z-archives/master/figures/entropicCircuit.jpg
+	filename figures/entropicCircuit.jpg
 	scale 50
 	rotateOrigin center
 
@@ -2632,6 +2645,7 @@ The Model 'F' is a mulitvariable electromagnetic field generator, the principle
 \begin_inset CommandInset citation
 LatexCommand cite
 key "key-16"
+literal "true"
 
 \end_inset
 
@@ -2640,6 +2654,7 @@ key "key-16"
 \begin_inset CommandInset citation
 LatexCommand cite
 key "key-17"
+literal "true"
 
 \end_inset
 
@@ -2659,7 +2674,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ../../research/publications/UoR thesis/z-archives/master/figures/MIT-Witricity.jpg
+	filename figures/MIT-Witricity.jpg
 	scale 50
 	rotateOrigin center
 
@@ -2712,7 +2727,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ../../research/publications/UoR thesis/z-archives/master/figures/model-f.jpg
+	filename figures/model-f.jpg
 	scale 50
 	rotateOrigin center
 
@@ -2755,7 +2770,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ../../research/publications/UoR thesis/z-archives/master/figures/cybieInstalled.jpg
+	filename figures/cybieInstalled.jpg
 	scale 50
 	rotateOrigin center
 
@@ -2834,7 +2849,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ../../research/publications/UoR thesis/z-archives/master/figures/area_transmitter/f2_files/1-7.jpg
+	filename figures/area_transmitter/f2_files/1-7.jpg
 	scale 50
 	rotateOrigin center
 
@@ -2878,7 +2893,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ../../research/publications/UoR thesis/z-archives/master/figures/area_transmitter/f2_files/1-8.jpg
+	filename figures/area_transmitter/f2_files/1-8.jpg
 	scale 50
 	rotateOrigin center
 
@@ -2922,7 +2937,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ../../research/publications/UoR thesis/z-archives/master/figures/area_transmitter/f2_files/1-9.jpg
+	filename figures/area_transmitter/f2_files/1-9.jpg
 	scale 50
 	rotateOrigin center
 
@@ -3152,7 +3167,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ../../research/publications/UoR thesis/z-archives/master/figures/area_transmitter/f2_files/1-14.jpg
+	filename figures/area_transmitter/f2_files/1-14.jpg
 	scale 50
 	rotateOrigin center
 
@@ -3200,7 +3215,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ../../research/publications/UoR thesis/z-archives/master/figures/area_transmitter/f2_files/1-15.jpg
+	filename figures/area_transmitter/f2_files/1-15.jpg
 	scale 50
 	rotateOrigin center
 
@@ -3324,7 +3339,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ../../research/publications/UoR thesis/z-archives/master/figures/optimizedSpiral.jpg
+	filename figures/optimizedSpiral.jpg
 	scale 50
 	rotateOrigin center
 
@@ -3381,7 +3396,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ../../research/publications/UoR thesis/z-archives/master/figures/area_transmitter/f2_files/1-16.jpg
+	filename figures/area_transmitter/f2_files/1-16.jpg
 	scale 50
 	rotateOrigin center
 
@@ -3431,7 +3446,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ../../research/publications/UoR thesis/z-archives/master/figures/fsxRange.jpg
+	filename figures/fsxRange.jpg
 	scale 50
 	rotateOrigin center
 
@@ -3544,7 +3559,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ../../research/publications/UoR thesis/z-archives/master/figures/area_transmitter/modelf_files/ExpID.jpg
+	filename figures/area_transmitter/modelf_files/ExpID.jpg
 	scale 50
 	rotateOrigin center
 
@@ -3726,7 +3741,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ../../research/publications/UoR thesis/z-archives/master/figures/primitiveModelState.jpg
+	filename figures/primitiveModelState.jpg
 	scale 50
 	rotateOrigin center
 
@@ -3774,7 +3789,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ../../research/publications/UoR thesis/z-archives/master/figures/compositeModelState.jpg
+	filename figures/compositeModelState.jpg
 	scale 50
 	rotateOrigin center
 
@@ -3822,7 +3837,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ../../research/publications/UoR thesis/z-archives/master/figures/modelEnvironment.jpg
+	filename figures/modelEnvironment.jpg
 	scale 50
 	rotateOrigin center
 
@@ -3927,7 +3942,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ../../research/publications/UoR thesis/z-archives/master/figures/ControlWindow.jpg
+	filename figures/ControlWindow.jpg
 	scale 50
 	rotateOrigin center
 
@@ -4062,6 +4077,7 @@ s machine
 \begin_inset CommandInset citation
 LatexCommand cite
 key "key-18"
+literal "true"
 
 \end_inset
 
@@ -4177,6 +4193,7 @@ In order to properly engage the model, a framework and feedback relationship
 \begin_inset CommandInset citation
 LatexCommand cite
 key "key-19"
+literal "true"
 
 \end_inset
 
@@ -4414,6 +4431,7 @@ In choosing the database technology, cost and usage factors were considered.
 \begin_inset CommandInset citation
 LatexCommand cite
 key "key-20"
+literal "true"
 
 \end_inset
 
@@ -4957,6 +4975,7 @@ These being rather general and more of a consensus of opinion rather than
 \begin_inset CommandInset citation
 LatexCommand cite
 key "key-22"
+literal "true"
 
 \end_inset
 
@@ -5031,6 +5050,7 @@ In order to generate empirical evidence of the hypothesis I have offered,
 \begin_inset CommandInset citation
 LatexCommand cite
 key "key-23"
+literal "true"
 
 \end_inset
 
@@ -5042,6 +5062,7 @@ key "key-23"
 \begin_inset CommandInset citation
 LatexCommand cite
 key "key-15"
+literal "true"
 
 \end_inset
 
@@ -5049,6 +5070,7 @@ key "key-15"
 \begin_inset CommandInset citation
 LatexCommand cite
 key "key-24"
+literal "true"
 
 \end_inset
 
@@ -5244,6 +5266,7 @@ Nouveau artificial life techniques and procedures
 \begin_inset CommandInset citation
 LatexCommand cite
 key "key-25"
+literal "true"
 
 \end_inset
 
@@ -5283,6 +5306,7 @@ Philosophy
 \begin_inset CommandInset citation
 LatexCommand cite
 key "key-26"
+literal "true"
 
 \end_inset
 
@@ -5303,6 +5327,7 @@ These have extended from recursive functions, the lambda calculus, the Turing
 \begin_inset CommandInset citation
 LatexCommand cite
 key "key-27"
+literal "true"
 
 \end_inset
 
@@ -5344,6 +5369,7 @@ Of course, implementation-independent self-organization may play essential
 \begin_inset CommandInset citation
 LatexCommand cite
 key "key-28"
+literal "true"
 
 \end_inset
 
@@ -5562,6 +5588,7 @@ I don't want this work to be considered in a vacuum; although I will only
 LatexCommand bibitem
 label "2"
 key "key-2"
+literal "true"
 
 \end_inset
 
@@ -5577,6 +5604,7 @@ key "key-2"
 LatexCommand bibitem
 label "3"
 key "key-3"
+literal "true"
 
 \end_inset
 
@@ -5590,6 +5618,7 @@ Holland, Owen.
 LatexCommand bibitem
 label "8"
 key "key-8"
+literal "true"
 
 \end_inset
 
@@ -5605,6 +5634,7 @@ Walter, Grey, W.
 LatexCommand bibitem
 label "9"
 key "key-9"
+literal "true"
 
 \end_inset
 
@@ -5619,6 +5649,7 @@ Maslow, Abraham, H.
 LatexCommand bibitem
 label "10"
 key "key-10"
+literal "true"
 
 \end_inset
 
@@ -5634,6 +5665,7 @@ Bateson, Melissa, Susan D.
 LatexCommand bibitem
 label "11"
 key "key-11"
+literal "true"
 
 \end_inset
 
@@ -5648,6 +5680,7 @@ Holland, Owen & David McFarland.
 LatexCommand bibitem
 label "12"
 key "key-12"
+literal "true"
 
 \end_inset
 
@@ -5662,6 +5695,7 @@ Ashby, Ross, W.
 LatexCommand bibitem
 label "13"
 key "key-13"
+literal "true"
 
 \end_inset
 
@@ -5677,6 +5711,7 @@ Melear, C.
 LatexCommand bibitem
 label "14"
 key "key-14"
+literal "true"
 
 \end_inset
 
@@ -5691,6 +5726,7 @@ Van Deursen, A.
 LatexCommand bibitem
 label "15"
 key "key-15"
+literal "true"
 
 \end_inset
 
@@ -5710,6 +5746,7 @@ Communications with Steve Grand
 LatexCommand bibitem
 label "16"
 key "key-16"
+literal "true"
 
 \end_inset
 
@@ -5728,6 +5765,7 @@ Andre Kurs; Aristeidis Karalis, Robert Moffatt, J.D.
 LatexCommand bibitem
 label "17"
 key "key-17"
+literal "true"
 
 \end_inset
 
@@ -5749,6 +5787,7 @@ The Inevitable Conflict
 LatexCommand bibitem
 label "18"
 key "key-18"
+literal "true"
 
 \end_inset
 
@@ -5764,6 +5803,7 @@ Walter, Grey, W.
 LatexCommand bibitem
 label "19"
 key "key-19"
+literal "true"
 
 \end_inset
 
@@ -5786,6 +5826,7 @@ An Introduction to Cybernetics
 LatexCommand bibitem
 label "20"
 key "key-20"
+literal "true"
 
 \end_inset
 
@@ -5807,6 +5848,7 @@ A Relational Model of Data for Large Shared Data Banks
 LatexCommand bibitem
 label "21"
 key "key-21"
+literal "true"
 
 \end_inset
 
@@ -5823,6 +5865,7 @@ Stanghellini, Giovanni.
 LatexCommand bibitem
 label "22"
 key "key-22"
+literal "true"
 
 \end_inset
 
@@ -5839,6 +5882,7 @@ Schrödinger, Erwin.
 LatexCommand bibitem
 label "23"
 key "key-23"
+literal "true"
 
 \end_inset
 
@@ -5854,6 +5898,7 @@ Von Neumann, John, Arthur W.
 LatexCommand bibitem
 label "24"
 key "key-24"
+literal "true"
 
 \end_inset
 
@@ -5867,6 +5912,7 @@ Brooks, Rodney.
 LatexCommand bibitem
 label "25"
 key "key-25"
+literal "true"
 
 \end_inset
 
@@ -5889,6 +5935,7 @@ Growing up with Lucy
 LatexCommand bibitem
 label "26"
 key "key-26"
+literal "true"
 
 \end_inset
 
@@ -5911,6 +5958,7 @@ Simulacra and Simulation
 LatexCommand bibitem
 label "27"
 key "key-27"
+literal "true"
 
 \end_inset
 
@@ -5923,6 +5971,7 @@ Kleene, Stephen.
 LatexCommand bibitem
 label "28"
 key "key-28"
+literal "true"
 
 \end_inset
 
