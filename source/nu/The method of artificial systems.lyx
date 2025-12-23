@@ -1511,45 +1511,6 @@ The arguments in this thesis are engaged in the first principle since I
 \end_layout
 
 \begin_layout Standard
-\begin_inset Float figure
-placement H
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename ../publications/UoR thesis/z-archives/master/figures/cognitionHierarchy.jpg
-	scale 50
-	rotateOrigin center
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-A Cognition Hierarchy
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 Figure 1 represents a hierarchy of available objects of the systems comprising
  a planetary body, in this instance a closed system.
  It is organized by decreasing emphasis in ascribed intelligence.
@@ -1977,51 +1938,6 @@ Orchestration in this unique instance takes the form exhibited in the following
 \end_layout
 
 \begin_layout Standard
-\begin_inset Float figure
-placement H
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename ../publications/UoR thesis/z-archives/master/figures/QDTransGen.jpg
-	scale 75
-	rotateOrigin center
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-\begin_inset CommandInset label
-LatexCommand label
-name "fig:orches"
-
-\end_inset
-
-An Orchestrated Robotic Network
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 Such a system would be capable of operating in remote or hostile environments
  too dangerous for humans while at the same time compatible socially to
  cooperate internally and externally with those providing the system directives
@@ -2228,7 +2144,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ../publications/UoR thesis/z-archives/master/figures/featuredPower.jpg
+	filename figures/featuredPower.jpg
 	scale 50
 	rotateOrigin center
 
@@ -2246,10 +2162,6 @@ Featured Power
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Plain Layout
 
 \end_layout
 
@@ -2530,7 +2442,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ../publications/UoR thesis/z-archives/master/figures/entropicCircuit.jpg
+	filename figures/entropicCircuit.jpg
 	scale 50
 	rotateOrigin center
 
@@ -2543,7 +2455,7 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-The Entropic Circuit
+An entropic circuit.
 \end_layout
 
 \end_inset
@@ -2656,45 +2568,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-\begin_inset Float figure
-placement H
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename ../publications/UoR thesis/z-archives/master/figures/MIT-Witricity.jpg
-	scale 50
-	rotateOrigin center
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-The WiTricity (MIT) Transmission System
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 My intention was to use my prototype to power a robot whose power demands
  would rise and fall dependent upon the work done.
  This meant that the voltage would stay relatively constant, but that the
@@ -2705,93 +2578,8 @@ My intention was to use my prototype to power a robot whose power demands
  a third coil and allow me to embed its receiver inside the robot itself,
  replacing the battery pack.
  The Model 'F' wireless power transmission system is illustrated in Figure
- 6:
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float figure
-placement H
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename ../publications/UoR thesis/z-archives/master/figures/model-f.jpg
-	scale 50
-	rotateOrigin center
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-The Model 'F' Transmitter
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-And the i-Cybie battery compartment showing the card installed (Figure 7).
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float figure
-placement H
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename ../publications/UoR thesis/z-archives/master/figures/cybieInstalled.jpg
-	scale 50
-	rotateOrigin center
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-i-Cybie and Receiver Card
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-The original Tesla system transmitted power from transmitter (Tx) to receiver
+ 6.
+ The original Tesla system transmitted power from transmitter (Tx) to receiver
  (Rx) only.
  Both systems used rather large spiral coils (around 40cm in diameter) and
  were too large to be hauled around by a robot.
@@ -2839,7 +2627,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ../publications/UoR thesis/z-archives/master/figures/area_transmitter/f2_files/1-7.jpg
+	filename figures/1-7.jpg
 	scale 50
 	rotateOrigin center
 
@@ -2883,7 +2671,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ../publications/UoR thesis/z-archives/master/figures/area_transmitter/f2_files/1-8.jpg
+	filename figures/1-8.jpg
 	scale 50
 	rotateOrigin center
 
@@ -2927,7 +2715,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ../publications/UoR thesis/z-archives/master/figures/area_transmitter/f2_files/1-9.jpg
+	filename figures/1-9.jpg
 	scale 50
 	rotateOrigin center
 
@@ -3143,330 +2931,6 @@ a=18x^{2}, & b=16y^{2}, & c=15z^{2}
 \end_layout
 
 \begin_layout Standard
-The use of the indefinite integral defines the finite values within it as
- the system is not infinite.
- What do the integrals look like?
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float figure
-placement H
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename ../publications/UoR thesis/z-archives/master/figures/area_transmitter/f2_files/1-14.jpg
-	scale 50
-	rotateOrigin center
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-Mapped Integrals
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-As expected, each is a parabola.
- Since the system's core equation is generating a parabola, it is a non-trivial
- to visualize in a polar grid which here is especially useful where we want
- to express the relationship between points–translated into areas–expressed
- in terms of angles and distance for a spherical coordinate system in three
- dimensions, which in this case, is a spiral:
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float figure
-placement H
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename ../publications/UoR thesis/z-archives/master/figures/area_transmitter/f2_files/1-15.jpg
-	scale 50
-	rotateOrigin center
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-Characteristic Spiral
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-However, the system is a little more complicated than that and would be
- served better if a governing or characteristic equation could be discerned.
-\end_layout
-
-\begin_layout Standard
-Consider an Archimedean spiral r
-\begin_inset Formula $_{\text{s}}$
-\end_inset
-
- with a number of turns 
-\emph on
-n
-\emph default
- where the distance 
-\emph on
-s
-\emph default
- between each of the arcs is constant, that is, dependent on some relation
- of 
-\emph on
-∫n dn
-\emph default
-.
- The mean capacitance 
-\begin_inset Formula $\overline{C}$
-\end_inset
-
- on the antenna increases with 
-\emph on
-n
-\emph default
- as well as the mean impedance 
-\begin_inset Formula $\overline{Z}$
-\end_inset
-
- over a nearly constant transmission time 
-\emph on
-t
-\emph default
-.
- The equation governing this system is:
-\end_layout
-
-\begin_layout Standard
-\begin_inset Formula 
-\begin{equation}
-r_{s}=\sqrt{t}-t-n
-\end{equation}
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-The inner radius is given by:
-\end_layout
-
-\begin_layout Standard
-\begin_inset Formula 
-\begin{equation}
-r_{i}=\sqrt{t}-n
-\end{equation}
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-A more accurate representation of the system, now under governance
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-The principle of a functioning dynamic system must obey a core or characteristic
- equation that determines its array of subsequent behaviors.
-\end_layout
-
-\end_inset
-
- appears as:
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float figure
-placement H
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename ../publications/UoR thesis/z-archives/master/figures/optimizedSpiral.jpg
-	scale 50
-	rotateOrigin center
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-Optimized Spiral
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Which is not unlike the physical windings of the system.
- I now want to assemble a composite solution and find an implicit solution
- to the equation with the right-hand side being equal to the potential of
- the system such that:
-\end_layout
-
-\begin_layout Standard
-\begin_inset Formula 
-\begin{equation}
-18x^{2}+16y^{2}+15z^{2}=588
-\end{equation}
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float figure
-placement H
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename ../publications/UoR thesis/z-archives/master/figures/area_transmitter/f2_files/1-16.jpg
-	scale 50
-	rotateOrigin center
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-The Waveform
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Inputting different stimulus values at the receiving port of the transmitter–#4
- in Figure 6–shows the system is susceptible to range limits for differing
- values of 
-\begin_inset Formula $\phi$
-\end_inset
-
-.
- 
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float figure
-placement H
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename ../publications/UoR thesis/z-archives/master/figures/fsxRange.jpg
-	scale 50
-	rotateOrigin center
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-Range Limits
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 Which demonstrates it is a closed system at a specific resonance bandwidth
  which I recommend be studied in greater detail as this work progresses.
 \end_layout
@@ -3538,64 +3002,6 @@ Experimental Setup
 \begin_layout Standard
 The transmitter discussed in §4.3 was analyzed in a carefully designed experiment
 al environment.
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float figure
-placement H
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename ../publications/UoR thesis/z-archives/master/figures/area_transmitter/modelf_files/ExpID.jpg
-	scale 50
-	rotateOrigin center
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-F Experiments
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-For this set of experiments, the setup was explicitly designed to gather
- reliable functional data of the Model 'F' transmission broadcast.
- This included the following test equipment:
-\end_layout
-
-\begin_layout Itemize
-Hewlett-Packard (HP) 8640BOPT001 Signal Generator.
- Range (f): 10Hz to 512MHz, Range (p): -75 to +20dBm,
-\end_layout
-
-\begin_layout Itemize
-HP4192AOPT001 Impedance Meter 5Hz to 13MHz,
-\end_layout
-
-\begin_layout Itemize
-HP8553A, HP8555A with 141T display Spectrum Analyzer
 \end_layout
 
 \begin_layout Standard
@@ -3719,148 +3125,6 @@ n
 \end_inset
 
 .
- Consider the figure:
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float figure
-placement H
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename ../publications/UoR thesis/z-archives/master/figures/primitiveModelState.jpg
-	scale 50
-	rotateOrigin center
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-Primitive Model State
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Here is expressed the queen transmitting apparatus.
- This model is simply a mock-up, to get a sense of how the functional model
- should appear resulting from the conceptual sketch exhibited in Figure
- 2.
- A more concise model, including the capacitance hooks and more detailed
- charge distribution is:
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float figure
-placement H
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename ../publications/UoR thesis/z-archives/master/figures/compositeModelState.jpg
-	scale 50
-	rotateOrigin center
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-Composite Model State
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-This is the current state of the model at this time.
- It is for the continuation this thesis that it will be more worked out.
- However, it is also necessary to mention that the model provides no insight
- into its function without reference to an environment of some kind.
- In this instance, it is simply an area surrounding so that the equations
- can operate.
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float figure
-placement H
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename ../publications/UoR thesis/z-archives/master/figures/modelEnvironment.jpg
-	scale 50
-	rotateOrigin center
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-Simplified Model in an Environment
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Figure 19 expresses the core as a function of its limit—at transponder minimum
- placement where the relays would be placed.
- The next task is to add the material and electrical characteristics.
 \end_layout
 
 \begin_layout Subsection
@@ -3920,50 +3184,8 @@ The notion of building virtual controllers is much more streamlined than
  It will be during the term of this thesis approaching dissertation that
  this notion will be explored further.
  However, to the present point in development here and for reference to
- these ideas, consider the following figure:
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float figure
-placement H
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename ../publications/UoR thesis/z-archives/master/figures/ControlWindow.jpg
-	scale 50
-	rotateOrigin center
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-Simulation of Environment & the Virtual Controller
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Here is shown a sample robot–a Roomba in this case from iRobot, Rod Brooks'
+ these ideas, consider the following figure.
+ Here is shown a sample robot–a Roomba in this case from iRobot, Rod Brooks'
 \begin_inset Foot
 status collapsed
 
@@ -4247,49 +3469,6 @@ The Hardware Experiment
 \end_layout
 
 \begin_layout Standard
-I will begin by using a laboratory setup in the following manner:
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float figure
-placement H
-wide false
-sideways false
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename ../publications/UoR thesis/z-archives/master/figures/TheHardwareExperiment.jpg
-	scale 50
-	rotateOrigin center
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-Choice Experimental Setup
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 The Transmitting Programming Station will simulate the queen by deploying
  software that uses the sound card as a signal generator coupled with the
  system clock crystal as an oscillator
@@ -4516,45 +3695,6 @@ A further breakdown of how each of the members fits into the composite schema
  can be seen in Figure 22.
  At this time the structure is completely hypothetical and unique in this
  field.
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float figure
-placement H
-wide false
-sideways false
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename ../publications/UoR thesis/z-archives/master/figures/governingEquation.jpg
-	scale 50
-	rotateOrigin center
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-Software Structured Choice and the Governing Equation (Concept)
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Subsubsection
@@ -5440,46 +4580,6 @@ Consider what should be variable in the design.
 \begin_layout Standard
 Pursuant to this, the following table condenses the above six into a single
  format.
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float figure
-placement H
-wide false
-sideways false
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename ../publications/UoR thesis/z-archives/master/figures/tableOne.jpg
-	lyxscale 50
-	scale 40
-	rotateOrigin center
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-A Table of Design Patterns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
