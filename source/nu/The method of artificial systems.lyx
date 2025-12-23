@@ -272,19 +272,15 @@ Why AI goes wrong
 \end_layout
 
 \begin_layout Standard
-Artificial intelligence requires three basic mathematical components, or
- ingredients, to make it what it is.
- The formal science requires a level of mathematical formulisation in computatio
-n, logic, and probability; it wasn't until the appearance of George Boole
- (1815 - 1864) and Gottlob Frege (1848 - 1925) that knowledge representation
- was defined.
- Alfred Tarski (1902 - 1983) introduced a theory of reference showing how
- logical objects could be related to their real-world counterparts.
- Turing, following Godel's incompleteness theorem, demonstrated what kinds
- of functions could be computed, expressed as the Church-Turing thesis.
- However, this introduced a series of intractable problems that would be
- left until the appearance of complexity theory in the 1970s to be shown
- how to compute proper solutions from problem instances.
+Artificial intelligence is a grouping of purely mathematical formalizations
+ in computation, logic, and probability.
+ Knowledge representation is amended by network weight adjustments in a
+ varity of language models.
+ The hypothesis of correlation how logical objects are related to their
+ real-world counterparts requires substantive resources in brute-force fashion
+ leaving the usual intractable problems in both the model and the environment
+ is which it is permeated.
+ Words.
 \end_layout
 
 \begin_layout Standard
