@@ -14,4 +14,4 @@ What is this thing called _machine intelligence_?
 
 ### Status
 
-Sharing the timeline with the constant drafts being , the reader is solely responsible to maintain version control.
+Sharing the timeline with the constant drafts being written the reader is solely responsible to maintain version control.
