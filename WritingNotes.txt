@@ -9,4 +9,5 @@ Focusing on the writing task
 23.12.2025
     1229: In progress.
     1324: Note.
+    1521: Cleaned to the minimum viable figure set.
     
