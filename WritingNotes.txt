@@ -8,4 +8,5 @@ Focusing on the writing task
     1916: Adding another repo in pub-n-dub for Kant-Schopenhauer.
 23.12.2025
     1229: In progress.
-        
+    1324: Note.
+    
