@@ -4,8 +4,10 @@ A manifesto of artificial life.
 
 ### Background
 
-Words.
+First contemplated in the summer of 1987, it became a M.Phil thesis in 2008. After trying, unsuccessfully to integrate Arthur Schoepenhauer's treatise on Kant as AI Ethics in 2017, it is now my answer to: 
 
-### History
+`What is artificial life?`
 
-First written in 2006 and published in 2008, this is the document that is the source of my ideas in AL. Last efforts in this regard were 2017.
+### Status
+
+It is being written and freely shared with the world. The reader is solely responsible to maintain version control.
