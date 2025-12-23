@@ -257,64 +257,18 @@ To reason and synthesize judgements where reflection is to understand any
 The realization of such can only be achieved as an embodied entity.
 \end_layout
 
-\begin_layout Subsection
-Terms
+\begin_layout Section
+Artificial Intelligence
 \end_layout
 
 \begin_layout Standard
-This thesis will deal with loosely-defined concepts nested in objective
- terms such as 'robot', 'machine', 'autonomous', 'synthetic creature' and
- the like to describe heretofore abstractly realized phenomenon that which
- comes so easily for us to recognize when we see it.
- It is one of the goals of this document to establish a set of terms suitable
- and narrowly defined to carry specific and targeted meaning of the abstract
- concepts that will be introduced and explored herein.
- The terms used widely throughout this thesis are: 
-\end_layout
-
-\begin_layout Standard
-Feature: the prominent part or characteristic embedded in both physical
- and abstract components.
-\end_layout
-
-\begin_layout Standard
-Entity: a dynamic object that possesses behavior forming an commonly-identifiabl
-e form.
-\end_layout
-
-\begin_layout Standard
-Robot: I will use this term interchangeably with 'machine', 'autonomous
- entity', and 'synthetic creature' meaning a composite artificial life form
- who may or may not bear resemblance to a humanoid form.
- I do not use it in its original context or in its exact translation.
-\end_layout
-
-\begin_layout Standard
-Controller: an entity that insists on particular machine states based on
- an external criteria or paradigm.
-\end_layout
-
-\begin_layout Standard
-Orchestration: Cooperation between disparate physical or abstract elements
- resulting in finely-grained coordination.
-\end_layout
-
-\begin_layout Standard
-Autonomy: A system defined by its own behavior derived from experience.
-\end_layout
-
-\begin_layout Standard
-I employ the terms 'life' and 'living' loosely throughout this thesis.
- I will use the terms to mean 'any system constructed or natural that interacts
- directly with a human observer generating interest'.
- Granted the definition is limited and perhaps flawed, it is for the conclusion
- of the research during my dissertation that this will be rectified.
- For now, I don't want to be mired in the metaphysical aspects while just
- beginning the work, hence the abbreviation here.
+I would like to set the scene for this thesis, what has inspired it, and
+ where it will be going based on some more detailed sources.
+ 
 \end_layout
 
 \begin_layout Subsection
-The Reluctance of AI
+Why AI goes wrong
 \end_layout
 
 \begin_layout Standard
@@ -479,27 +433,6 @@ These 'reluctances' provide insight into knotty problems; from assaying
  the strengths and failures of historical works, I believe the problem can
  be rendered geometrically.
  I will address this later in the thesis.
-\end_layout
-
-\begin_layout Subsection
-Words
-\end_layout
-
-\begin_layout Standard
-Not withstanding this general survey, let me now take the time to examine
- most closely the specific inspirational sources for this work and where
- my notion of choice in the machine as a quantifier for true artificial
- life has derived from.
-\end_layout
-
-\begin_layout Section
-Artificial Intelligence
-\end_layout
-
-\begin_layout Standard
-I would like to set the scene for this thesis, what has inspired it, and
- where it will be going based on some more detailed sources.
- 
 \end_layout
 
 \begin_layout Subsection
